@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Clases\childCount\childCount_.cs" />
+    <Compile Include="Assets\Clases\eulrtAngles\eulerAngles_.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
