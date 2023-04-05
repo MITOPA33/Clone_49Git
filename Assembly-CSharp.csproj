@@ -56,7 +56,9 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Clases\hasChanged\hasChanged_.cs" />
     <Compile Include="Assets\Clases\eulrtAngles\eulerAngles_.cs" />
+    <Compile Include="Assets\Clases\hierarchyCount_hierarchycapacity\hierarchyCount_.cs" />
     <Compile Include="Assets\Clases\childCount\childCount_.cs" />
     <Compile Include="Assets\Clases\forward_right_up\forward_right_up.cs" />
   </ItemGroup>
