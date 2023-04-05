@@ -355,6 +355,7 @@
 "Assets/Clases/childCount/childCount_.cs"
 "Assets/Clases/eulrtAngles/eulerAngles_.cs"
 "Assets/Clases/forward_right_up/forward_right_up.cs"
+"Assets/Clases/hasChanged/hasChanged_.cs"
 -langversion:9.0
 
 /deterministic
