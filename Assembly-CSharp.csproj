@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Clases\hasChanged\hasChanged_.cs" />
     <Compile Include="Assets\Clases\eulrtAngles\eulerAngles_.cs" />
+    <Compile Include="Assets\Clases\localEulerAngles\localEulerAngles_.cs" />
     <Compile Include="Assets\Clases\hierarchyCount_hierarchycapacity\hierarchyCount_.cs" />
     <Compile Include="Assets\Clases\childCount\childCount_.cs" />
     <Compile Include="Assets\Clases\forward_right_up\forward_right_up.cs" />

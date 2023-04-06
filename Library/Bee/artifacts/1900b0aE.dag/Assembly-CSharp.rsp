@@ -357,6 +357,7 @@
 "Assets/Clases/forward_right_up/forward_right_up.cs"
 "Assets/Clases/hasChanged/hasChanged_.cs"
 "Assets/Clases/hierarchyCount_hierarchycapacity/hierarchyCount_.cs"
+"Assets/Clases/localEulerAngles/localEulerAngles_.cs"
 -langversion:9.0
 
 /deterministic
